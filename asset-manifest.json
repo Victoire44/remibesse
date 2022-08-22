@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/remibesse/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/remibesse/static/js/main.0f5d0cab.chunk.js",
-    "main.js.map": "/remibesse/static/js/main.0f5d0cab.chunk.js.map",
+    "main.js": "/remibesse/static/js/main.8e664cc7.chunk.js",
+    "main.js.map": "/remibesse/static/js/main.8e664cc7.chunk.js.map",
     "runtime-main.js": "/remibesse/static/js/runtime-main.4f253368.js",
     "runtime-main.js.map": "/remibesse/static/js/runtime-main.4f253368.js.map",
     "static/css/2.80f479d8.chunk.css": "/remibesse/static/css/2.80f479d8.chunk.css",
-    "static/js/2.e88d3024.chunk.js": "/remibesse/static/js/2.e88d3024.chunk.js",
-    "static/js/2.e88d3024.chunk.js.map": "/remibesse/static/js/2.e88d3024.chunk.js.map",
+    "static/js/2.018da3d1.chunk.js": "/remibesse/static/js/2.018da3d1.chunk.js",
+    "static/js/2.018da3d1.chunk.js.map": "/remibesse/static/js/2.018da3d1.chunk.js.map",
     "index.html": "/remibesse/index.html",
-    "precache-manifest.63e662e2ca33b121925fbd0373b7990f.js": "/remibesse/precache-manifest.63e662e2ca33b121925fbd0373b7990f.js",
+    "precache-manifest.9bbce7c0b761b07f51a823f0a047691b.js": "/remibesse/precache-manifest.9bbce7c0b761b07f51a823f0a047691b.js",
     "service-worker.js": "/remibesse/service-worker.js",
     "static/css/2.80f479d8.chunk.css.map": "/remibesse/static/css/2.80f479d8.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/remibesse/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.e88d3024.chunk.js.LICENSE.txt": "/remibesse/static/js/2.e88d3024.chunk.js.LICENSE.txt",
+    "static/js/2.018da3d1.chunk.js.LICENSE.txt": "/remibesse/static/js/2.018da3d1.chunk.js.LICENSE.txt",
     "static/media/about.mp4": "/remibesse/static/media/about.b189ac25.mp4",
     "static/media/accorhotels.jpg": "/remibesse/static/media/accorhotels.3bc8f91d.jpg",
     "static/media/adidas.jpg": "/remibesse/static/media/adidas.44b5ab19.jpg",
@@ -21,7 +21,6 @@
     "static/media/blue.mp4": "/remibesse/static/media/blue.9babb9d2.mp4",
     "static/media/budweiser.jpg": "/remibesse/static/media/budweiser.1e179eac.jpg",
     "static/media/cavani.mp4": "/remibesse/static/media/cavani.4382eb73.mp4",
-    "static/media/cavani.jpg": "/remibesse/static/media/cavani.b5963611.jpg",
     "static/media/close-cursor.svg": "/remibesse/static/media/close-cursor.132b8c92.svg",
     "static/media/collage.jpg": "/remibesse/static/media/collage.5f833fa4.jpg",
     "static/media/complex.mp4": "/remibesse/static/media/complex.958987ef.mp4",
@@ -80,8 +79,8 @@
   "entrypoints": [
     "static/js/runtime-main.4f253368.js",
     "static/css/2.80f479d8.chunk.css",
-    "static/js/2.e88d3024.chunk.js",
+    "static/js/2.018da3d1.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.0f5d0cab.chunk.js"
+    "static/js/main.8e664cc7.chunk.js"
   ]
 }

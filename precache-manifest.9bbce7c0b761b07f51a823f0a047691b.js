@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "23feb3886dbaa6bea15b8d2d6b6dc2c4",
+    "revision": "d55c39a84ab94e40c4d244cb3b0ddecc",
     "url": "/remibesse/index.html"
   },
   {
-    "revision": "0b7517a378c57e9e9684",
+    "revision": "85e6bfb06202e85a2cf6",
     "url": "/remibesse/static/css/2.80f479d8.chunk.css"
   },
   {
-    "revision": "4919e534420446f55ef1",
+    "revision": "414e80f4e0049e95fab8",
     "url": "/remibesse/static/css/main.5ecd60fb.chunk.css"
   },
   {
-    "revision": "0b7517a378c57e9e9684",
-    "url": "/remibesse/static/js/2.e88d3024.chunk.js"
+    "revision": "85e6bfb06202e85a2cf6",
+    "url": "/remibesse/static/js/2.018da3d1.chunk.js"
   },
   {
     "revision": "bf72086b44f10c47f01e16d9fe377d01",
-    "url": "/remibesse/static/js/2.e88d3024.chunk.js.LICENSE.txt"
+    "url": "/remibesse/static/js/2.018da3d1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4919e534420446f55ef1",
-    "url": "/remibesse/static/js/main.0f5d0cab.chunk.js"
+    "revision": "414e80f4e0049e95fab8",
+    "url": "/remibesse/static/js/main.8e664cc7.chunk.js"
   },
   {
     "revision": "3da26c9f37bfffe59c99",
@@ -54,10 +54,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4382eb73af88ea89eb77d06695849a8b",
     "url": "/remibesse/static/media/cavani.4382eb73.mp4"
-  },
-  {
-    "revision": "b5963611b18ea1012533e49f85e1f126",
-    "url": "/remibesse/static/media/cavani.b5963611.jpg"
   },
   {
     "revision": "132b8c92dadbeb3f4c9f7992427467e3",
